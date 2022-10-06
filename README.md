@@ -51,7 +51,6 @@ The server part has multiple **API endpoints** using several routes:
     - react-jwt: 1.1.4
     - react-firebase: 5.0.3
   - cypress: 9.5.2
-  - tailwindcss: 3.0.23
 
 ---
 
