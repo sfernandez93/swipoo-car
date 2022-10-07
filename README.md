@@ -6,7 +6,7 @@
     <img src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg" alt="react-logo" width="100"/>
     <img src="https://blog.back4app.com/wp-content/uploads/2021/02/firebase.png" alt="firebase-logo" width="100"/>
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E7SQLjAt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5d14su1hfqzbeqa2qhbr.png" alt="email-js-logo" width="100"/>
-    <img src="https://www.cypress.io/static/cypress-io-logo-social-share-8fb8a1db3cdc0b289fad927694ecb415.png" alt="firebase-logo" width="100"/>
+    <img src="https://firebase.google.com/static/images/brand-guidelines/logo-standard.png?hl=es-419" alt="firebase-logo" width="100"/>
     <img src="https://www.adue.digital/wp-content/uploads/2021/06/tailwind-css-logo-vector.png" alt="tailwind-logo" width="100"/>
 </p>
 
@@ -38,8 +38,8 @@ All dependencies will be installed automatically
 
 The server part has multiple **API endpoints** using several routes:
 
-- `/search` -> Serves the internal data about pets.
-- `/upload` -> Serves to upload data about pets to firebase database.
+- `/search` -> Serves the internal data about cars.
+- `/upload` -> Serves to upload data about cars to firebase database.
 ---
 
 ## Built with:
